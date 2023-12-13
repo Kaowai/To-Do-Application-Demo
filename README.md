@@ -27,6 +27,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Các bước thực hiện để chạy thành công ứng dụng:
-Bước 1: Clone dự án về thư mục của bạn
-Bước 2: Cài đặt node package bằng câu lệnh: `npm install`
+Bước 1: Clone dự án về thư mục của bạn\\
+Bước 2: Cài đặt node package bằng câu lệnh: `npm install`\\
 Bước 3: Chạy ứng dụng bằng câu lệnh `ng serve -o`
